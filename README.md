@@ -24,7 +24,7 @@ This is a simple, elegant landing page that marks the start of my coding journey
 ## 🚀 How to Run Locally
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/dejik/vets-who-code.git
 ```
 
 2. Open `index.html` in your web browser
